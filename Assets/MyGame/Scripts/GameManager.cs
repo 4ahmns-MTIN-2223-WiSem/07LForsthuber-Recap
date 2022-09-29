@@ -52,8 +52,16 @@ public class GameManager : MonoBehaviour
         if (buttonNumber == 2)
             blueButtonClicked = true;
 
-        if (redButtonClicked && greenButtonClicked && blueButtonClicked)
+        CheckBtnPressed();
+
+    }
+
+    void CheckBtnPressed()
+    {
+        if ((!switchButton.interactable) && redButtonClicked && greenButtonClicked && blueButtonClicked)
+        {
             switchButton.interactable = true;
+        }
     }
 
     public void SwitchScene()
