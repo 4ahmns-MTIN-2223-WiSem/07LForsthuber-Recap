@@ -212,6 +212,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13d395dcb78ca1c44bf620701c7d7d82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myState: 0
   myManager: {fileID: 0}
 --- !u!114 &19297665
 MonoBehaviour:
@@ -492,6 +493,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13d395dcb78ca1c44bf620701c7d7d82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myState: 0
   myManager: {fileID: 0}
 --- !u!114 &360599013
 MonoBehaviour:
@@ -591,6 +593,7 @@ MonoBehaviour:
   imgP1: {fileID: 1422422955}
   imgP2: {fileID: 1642901572}
   player1: 0
+  winStatus: 0
   spWhite: {fileID: 21300000, guid: 0885bd58b6312d14588403664d1d0e19, type: 3}
   spX: {fileID: 21300000, guid: 6f3643818fdb2af419545a678dcce506, type: 3}
   spO: {fileID: 21300000, guid: bd97051c96b535b4ab22c11c5b5da6c7, type: 3}
@@ -800,6 +803,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13d395dcb78ca1c44bf620701c7d7d82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myState: 0
   myManager: {fileID: 0}
 --- !u!114 &769367046
 MonoBehaviour:
@@ -946,6 +950,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13d395dcb78ca1c44bf620701c7d7d82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myState: 0
   myManager: {fileID: 0}
 --- !u!114 &826867134
 MonoBehaviour:
@@ -1035,6 +1040,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13d395dcb78ca1c44bf620701c7d7d82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myState: 0
   myManager: {fileID: 0}
 --- !u!114 &932300671
 MonoBehaviour:
@@ -1238,6 +1244,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13d395dcb78ca1c44bf620701c7d7d82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myState: 0
   myManager: {fileID: 0}
 --- !u!114 &1023845479
 MonoBehaviour:
@@ -1450,6 +1457,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13d395dcb78ca1c44bf620701c7d7d82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myState: 0
   myManager: {fileID: 0}
 --- !u!114 &1102123636
 MonoBehaviour:
@@ -1887,6 +1895,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13d395dcb78ca1c44bf620701c7d7d82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myState: 0
   myManager: {fileID: 0}
 --- !u!114 &1442301236
 MonoBehaviour:
@@ -2147,6 +2156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13d395dcb78ca1c44bf620701c7d7d82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myState: 0
   myManager: {fileID: 0}
 --- !u!114 &1895775672
 MonoBehaviour:

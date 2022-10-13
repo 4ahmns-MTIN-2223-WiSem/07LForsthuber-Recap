@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MyGame/Scenes/Scene2.unity
     guid: ec17d278bf0799248b64522cb9caca1e
+  - enabled: 1
+    path: Assets/MyGame/Scenes/InClassTTT.unity
+    guid: 6b82c08d08595d548876275624dd140a
   m_configObjects: {}
